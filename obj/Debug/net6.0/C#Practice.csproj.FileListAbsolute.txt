@@ -1,0 +1,5 @@
+/Users/miles/source/codeworks/Project-Folder/Week-10/Monday/C#Practice/obj/Debug/net6.0/C#Practice.csproj.AssemblyReference.cache
+/Users/miles/source/codeworks/Project-Folder/Week-10/Monday/C#Practice/obj/Debug/net6.0/C#Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miles/source/codeworks/Project-Folder/Week-10/Monday/C#Practice/obj/Debug/net6.0/C#Practice.AssemblyInfoInputs.cache
+/Users/miles/source/codeworks/Project-Folder/Week-10/Monday/C#Practice/obj/Debug/net6.0/C#Practice.AssemblyInfo.cs
+/Users/miles/source/codeworks/Project-Folder/Week-10/Monday/C#Practice/obj/Debug/net6.0/C#Practice.csproj.CoreCompileInputs.cache
